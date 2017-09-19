@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AirHockey3D.iml" filepath="$PROJECT_DIR$/AirHockey3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AirHockeyTextUred.iml" filepath="$PROJECT_DIR$/AirHockeyTextUred.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
